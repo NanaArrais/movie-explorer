@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="prgs.xsl"?>
+<Objects>
+   <Charset>UTF-8</Charset>
+   <Path>file:///A:/GeneXus/GeneXus17u11/</Path>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WpTelaBusca</ObjName>
+      <ObjDesc>Filmes</ObjDesc>
+      <ObjLink>/Kb_Teste_GeneXusJavaEnvironment/com.kbtestegenexus.wptelabusca</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WpTelaFavorito</ObjName>
+      <ObjDesc>Favoritos</ObjDesc>
+      <ObjLink>/Kb_Teste_GeneXusJavaEnvironment/com.kbtestegenexus.wptelafavorito</ObjLink>
+   </Object>
+</Objects>
